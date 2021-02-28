@@ -1,7 +1,8 @@
 ---
 description: >-
   Here we are adding a HW wallet as a second owner on your pool registration
-  certificate so you can pledge from it.
+  certificate so you can pledge from it. Follow us on twitter :
+  https://twitter.com/frca_stakepool
 ---
 
 # \[FRCA🍁\]: How to add your HW wallet as owner for pool pledge.
