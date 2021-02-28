@@ -259,5 +259,5 @@ cardano-cli transaction submit --tx-file tx-pool.multisign --mainnet
 
 
 
-[![Follow us on twitter!](https://raw.githubusercontent.com/Mikederel/HW-wallet-as-owner/main/Twitter.png)](https://twitter.com/frca_stakepool)
+Follow us on twitter! : [![Follow us on twitter!](https://raw.githubusercontent.com/Mikederel/HW-wallet-as-owner/main/Twitter.png)](https://twitter.com/frca_stakepool)
 
