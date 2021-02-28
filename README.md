@@ -255,7 +255,7 @@ cardano-cli transaction submit --tx-file tx-pool.multisign --mainnet
 {% hint style="info" %}
 🔥 **Critical : Do not move your funds from CLI pledge wallet before HW wallet delegation is active on your pool!!\(**_**after 2 snapshots\)**_ **If you move them before, your pledge will show as "pledge not met".**
 
-**ONLY USE THE FIRST ADDRESS showing in Daedalus or Yoroi if you want to keep your pledge address querable via the CLI.**
+**ONLY USE THE FIRST ADDRESS showing in Daedalus or Yoroi if you want to keep your pledge address queryable via the CLI.**
 {% endhint %}
 
 For the latest updates, follow us on twitter! [![Follow us on twitter!](https://raw.githubusercontent.com/Mikederel/HW-wallet-as-owner/main/Twitter.png)](https://twitter.com/frca_stakepool)
