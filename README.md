@@ -257,3 +257,7 @@ cardano-cli transaction submit --tx-file tx-pool.multisign --mainnet
 **ONLY USE THE FIRST ADDRESS showing in Daedalus or Yoroi if you want to keep your pledge address querable via the CLI.**
 {% endhint %}
 
+![Follow us on twitter!](https://static.wixstatic.com/media/59687ffffc2042f885062ce2b0744381.png/v1/fill/w_20,h_20,al_c,q_85,usm_0.66_1.00_0.01/Twitter.webp)
+
+
+
