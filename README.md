@@ -6,7 +6,7 @@ description: >-
 
 # \[FRCA🍁\]: How to add your HW wallet as owner for pool pledge.
 
-For future updates, follow us on twitter! [![Follow us on twitter!](https://raw.githubusercontent.com/Mikederel/HW-wallet-as-owner/main/Twitter.png)](https://twitter.com/frca_stakepool)
+For the latest updates, follow us on twitter! [![Follow us on twitter!](https://raw.githubusercontent.com/Mikederel/HW-wallet-as-owner/main/Twitter.png)](https://twitter.com/frca_stakepool)
 
 Make sure you can see your HW wallet on your air-gapped offline machine.
 
