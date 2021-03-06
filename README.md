@@ -114,7 +114,7 @@ Calculate payment.addr balance.
 ```text
 cardano-cli query utxo \
     --address $(cat payment.addr) \
-    --allegra-era \
+    --mary-era \
     --mainnet > fullUtxo.out
 
 tail -n +3 fullUtxo.out | sort -k3 -nr > balance.out
@@ -150,7 +150,7 @@ cardano-cli transaction build-raw \
     --invalid-hereafter $(( ${currentSlot} + 10000)) \
     --fee 0 \
     --certificate-file pool.cert \
-    --allegra-era \
+    --mary-era \
     --out-file tx.tmp
 ```
 {% endtab %}
@@ -196,7 +196,7 @@ cardano-cli transaction build-raw \
     --invalid-hereafter $(( ${currentSlot} + 10000)) \
     --fee ${fee} \
     --certificate-file pool.cert \
-    --allegra-era \
+    --mary-era \
     --out-file tx.raw
 ```
 {% endtab %}
