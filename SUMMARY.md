@@ -6,4 +6,5 @@
 * [3. \[FRCA🍁\] Guide: Setup chrony for good server time sync.](how-to-setup-chrony.md)
 * [4. \[FRCA🍁\] Security Guide: How to add your HW wallet as owner for your pool pledge.](readme.md)
 * [Avoid Scams!](avoid-scams.md)
+* [General Cardano & Cryptocurrency Security Tips](general-cardano-and-cryptocurrency-security-tips.md)
 
