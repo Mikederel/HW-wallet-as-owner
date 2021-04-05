@@ -5,7 +5,7 @@ description: >-
   clocks.
 ---
 
-# Setup chrony for good server time sync.
+# 3. Setup chrony for good server time sync.
 
 ## 1. Installation
 
