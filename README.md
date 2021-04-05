@@ -1,10 +1,12 @@
 ---
-description: "Here, [FRCA\U0001F341] will provide you with a full Cardano Stake Pool guide with Coincashew guide as source, adding critical steps to ensure security on your nodes."
+description: "Here, [FRCA\U0001F341] will provide you with a full Cardano Stake Pool guide with the help of Coincashew guide as a source."
 ---
 
 # Introduction
 
-Follow all the steps on left side!
+**We will be adding critical steps to ensure you have the best security on your nodes.**
 
-Welcome and contact me on twitter if you have any questions.
+Follow all the steps on left side and contact me on twitter if you have any questions.
+
+Telegram channel will be coming if enough people feel like discussing all this in real time.
 
