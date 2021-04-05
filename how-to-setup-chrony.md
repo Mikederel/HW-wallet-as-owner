@@ -5,7 +5,7 @@ description: >-
   clocks.
 ---
 
-# 3. Setup chrony for good server time sync.
+# 3. \[FRCA🍁\] Guide: Setup chrony for good server time sync.
 
 ## 1. Installation
 

@@ -4,7 +4,7 @@ description: >-
   certificate so you can pledge from it.
 ---
 
-# 4. \[FRCA🍁\]: How to add your HW wallet as owner for pool pledge.
+# 4. \[FRCA🍁\] Guide: How to add your HW wallet as owner for pool pledge.
 
 For the latest updates, follow us on twitter! [![Follow us on twitter!](https://raw.githubusercontent.com/Mikederel/HW-wallet-as-owner/main/Twitter.png)](https://twitter.com/frca_stakepool)
 
