@@ -39,8 +39,9 @@ See ****[**https://cardano-community.github.io/support-faq/\#/no-to-scam?id=bein
 
 **5. YouTube Comments** – All whatsapp numbers or twitter links to investors channels \(fund managers\) from copies of a youtuber's account are from scammers. Name looks the same, but real comments from the channel owners name have a dark background.
 
-**Also:** 
+**Extras:** 
 
+{% hint style="info" %}
 * Do not disclose your balance or portfolio details online. This can make you a target for hackers.
 *  Always be sure to keep your Daedalus wallet recovery phrase safe and confidential. 
 * Do not rush into anything, doing a little online research which can reveal a scam or something which has been flagged as negative by the community.
@@ -49,4 +50,5 @@ See ****[**https://cardano-community.github.io/support-faq/\#/no-to-scam?id=bein
 * Don’t store crypto on exchanges
 * Use hardware wallets wherever possible
 * Please do report any scams directly with the relevant party as well as to [report@Cardano.org.](mailto:report@Cardano.org)
+{% endhint %}
 
