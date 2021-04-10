@@ -149,7 +149,6 @@ cardano-cli transaction build-raw \
     --invalid-hereafter $(( ${currentSlot} + 10000)) \
     --fee 0 \
     --certificate-file pool.cert \
-    --mary-era \
     --out-file tx.tmp
 ```
 {% endtab %}
@@ -195,7 +194,6 @@ cardano-cli transaction build-raw \
     --invalid-hereafter $(( ${currentSlot} + 10000)) \
     --fee ${fee} \
     --certificate-file pool.cert \
-    --mary-era \
     --out-file tx.raw
 ```
 {% endtab %}
