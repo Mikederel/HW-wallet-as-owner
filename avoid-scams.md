@@ -30,6 +30,8 @@ See ****[**https://cardano-community.github.io/support-faq/\#/no-to-scam?id=bein
 
 **4. Password/Passphrase** – Do not share your password, passphrase, or secrets folders with anyone. Report people who ask you to do this to [report@Cardano.org.](mailto:report@Cardano.org)
 
+**5. YouTube Comments** – All whatsapp numbers or twitter links to investors channels \(fund managers\) from copies of a youtuber's account are from scammers. Name looks the same, but real comments from the channel owners name have a dark background.
+
 **Also:** 
 
 * Do not disclose your balance or portfolio details online. This can make you a target for hackers.
