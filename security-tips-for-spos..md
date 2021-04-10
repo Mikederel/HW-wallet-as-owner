@@ -1,6 +1,6 @@
 # Extra security tips for SPOs.
 
-**Do this first :** [https://poolguide.frcan.com/2.-harden-your-server](https://poolguide.frcan.com/2.-harden-your-server)
+**Follow this first :** [https://poolguide.frcan.com/2.-harden-your-server](https://poolguide.frcan.com/2.-harden-your-server)
 
 _`Remember, this is the minimum, you cant go wrong with doing more if you wish to.`_
 
