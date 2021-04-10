@@ -2,7 +2,7 @@
 description: Coming soon
 ---
 
-# Avoid Scams!
+# How to avoid Scams! Must read for beginners!
 
 Coming soon
 
