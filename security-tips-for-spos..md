@@ -7,9 +7,8 @@ _`Remember, this is the minimum, you cant go wrong with doing more if you wish t
 **Extra tips:** 
 
 1. Use a hardware wallet for your pledge. See my guide at: [https://poolguide.frcan.com/readme-1](https://poolguide.frcan.com/readme-1)
-2. Keep a few copies of your stake pool op keys offline and only in safe places.
-3. Use air-gapped machine for all transactions signing.
-4. Keeping the system updated is vital before starting anything on your system. This will prevent people to use known vulnerabilities to enter in your system:
+2. Use air-gapped machine for all transactions signing.
+3. Keeping the system updated is vital before starting anything on your system. This will prevent people to use known vulnerabilities to enter in your system:
 
 To enable ONLY security updates, do this:
 
@@ -29,7 +28,13 @@ Edit to look like this:
 > : // Unattended-Upgrade::Mail "my_user@my_domain.com";
 > ```
 
+**I took inspiration from this story from another SPO before i made this guide \(remember, this could happen to you too!\) :**
 
+![](.gitbook/assets/salad-stake-pool1.jpg)
 
+![](.gitbook/assets/salad-stake-pool2.jpg)
 
+{% hint style="danger" %}
+So remember to keep more than one copy of your stake pool op keys offline and only in safe places! Let this be a lesson to you!
+{% endhint %}
 
