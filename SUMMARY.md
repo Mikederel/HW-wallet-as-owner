@@ -7,3 +7,4 @@
 * [2. Harden your server-Coincashew](2.-harden-your-server.md)
 * [3. \[FRCA🍁\] Guide: Setup chrony for good server time sync.](how-to-setup-chrony.md)
 * [4. \[FRCA🍁\] Security Guide: How to add your HW wallet as owner for your pool pledge.](readme-1.md)
+
