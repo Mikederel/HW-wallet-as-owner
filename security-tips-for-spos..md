@@ -1,10 +1,12 @@
 # Extra security tips for SPOs.
 
-**Follow this first :** [https://poolguide.frcan.com/2.-harden-your-server](https://poolguide.frcan.com/2.-harden-your-server)
+{% hint style="warning" %}
+**Important:** Follow this first : [https://poolguide.frcan.com/2.-harden-your-server](https://poolguide.frcan.com/2.-harden-your-server)
+{% endhint %}
 
-_`Remember, this is the minimum, you cant go wrong with doing more if you wish to.`_
+_`And remember, this is the minimum, you cant go wrong with doing more if you wish to.`_
 
-**Extra tips:** 
+**And now to the extra tips:** 
 
 1. Use a hardware wallet for your pledge. See my guide at: [https://poolguide.frcan.com/readme-1](https://poolguide.frcan.com/readme-1)
 2. Use air-gapped machine for all transactions signing.
@@ -28,7 +30,7 @@ Edit to look like this:
 > : // Unattended-Upgrade::Mail "my_user@my_domain.com";
 > ```
 
-**I took inspiration from this story from another SPO before i made this guide \(remember, this could happen to you too!\) :**
+**I took inspiration in this story from another beloved SPO before i made this guide \(remember, this could happen to you too!\) :**
 
 ![](.gitbook/assets/salad-stake-pool1.jpg)
 
