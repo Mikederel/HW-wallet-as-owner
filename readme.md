@@ -101,8 +101,8 @@ Find the current tip.
 {% tabs %}
 {% tab title="Block Producer" %}
 ```text
-currentSlot=$(cardano-cli query tip --mainnet | jq -r '.slotNo')
-echo Current Slot: $currentSlot
+slotNo=$(cardano-cli query tip --mainnet | jq -r '.slot')
+echo slotNo: ${slotNo}
 ```
 {% endtab %}
 {% endtabs %}
@@ -114,7 +114,6 @@ Calculate payment.addr balance.
 ```text
 cardano-cli query utxo \
     --address $(cat payment.addr) \
-    --mary-era \
     --mainnet > fullUtxo.out
 
 tail -n +3 fullUtxo.out | sort -k3 -nr > balance.out
