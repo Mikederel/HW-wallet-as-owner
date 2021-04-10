@@ -30,12 +30,14 @@ See ****[**https://cardano-community.github.io/support-faq/\#/no-to-scam?id=bein
 
 **4. Password/Passphrase** – Do not share your password, passphrase, or secrets folders with anyone. Report people who ask you to do this to [report@Cardano.org.](mailto:report@Cardano.org)
 
-* [ ] Do not disclose your balance or portfolio details online. This can make you a target for hackers.
-* [ ] Do not rush into anything, doing a little online research which can reveal a scam or something which has been flagged as negative by the community.
-* [ ] Always double check website URLs.
-* [ ] Double check addresses you are sending to.
-* [ ] Use 2FA on all sites that you can.
-* [ ] Use hardware wallets wherever possible
-* [ ] Don’t store crypto on exchanges
-* [ ] Please do report any scams directly with the relevant party as well as to [report@Cardano.org.](mailto:report@Cardano.org)
+**Also:** 
+
+* Do not disclose your balance or portfolio details online. This can make you a target for hackers.
+*  Always be sure to keep your Daedalus wallet recovery phrase safe and confidential. 
+* Do not rush into anything, doing a little online research which can reveal a scam or something which has been flagged as negative by the community.
+* Always double check website URLs.
+* Use 2FA on all sites that you can.
+* Don’t store crypto on exchanges
+* Use hardware wallets wherever possible
+* Please do report any scams directly with the relevant party as well as to [report@Cardano.org.](mailto:report@Cardano.org)
 
