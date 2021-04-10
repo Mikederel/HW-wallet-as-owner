@@ -13,5 +13,5 @@ Follow all the steps on left side and contact me on twitter if you have any ques
 
 Telegram channel will be coming if enough people feel like discussing all this in real time.
 
-
+{% page-ref page="avoid-scams.md" %}
 
