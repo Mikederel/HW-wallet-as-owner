@@ -1,5 +1,5 @@
 ---
-description: List of most used scams.
+description: List of most used scams and ways to avoid them.
 ---
 
 # How to avoid Scams! Must read for beginners!
